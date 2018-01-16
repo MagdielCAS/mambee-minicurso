@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Mambee</string>
+    <string name="hello_world">Alô Mundo!</string>
+    <string name="change_text">Mudar Texto</string>
+    <string name="novo_text">Novo Texto</string>
+    <string name="change_activity">Mudar Activity</string>
+</resources>
